@@ -4,9 +4,6 @@
 
 using namespace std;
 
-// Maximum number of an item that can be purchased
-#define ITEMMAX		32
-
 // Set the tax rate at 7%
 #define TAXRATE		0.07
 // Set discont rate to 10%
@@ -92,7 +89,7 @@ class Float {
   int scoops;
 
   // Flavor of each scoop
-  int flavors[ITEMMAX];
+  int flavors[64];
 
   // Flavor of soda
   int sodaFlavor;
