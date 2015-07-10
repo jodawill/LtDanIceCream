@@ -1,0 +1,14 @@
+Ice cream:
+	Scoops - 1 or 2
+	Flavors - At least 5
+	Container: Cone, waffle cone, cup
+
+Shake:
+	Flavor - Only one of the available flavors
+	Milk - Skim, 2%, or whole
+
+Floats:
+	Scoops - Any number
+	Soda - At least 3 flavors
+
+Discounts available, but not for ice cream cones
